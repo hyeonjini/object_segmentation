@@ -1,0 +1,1 @@
+python test.py --model_dir model/exp --model_name epoch10.pth --augmentation TestAugmentation
